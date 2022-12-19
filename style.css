@@ -32,3 +32,9 @@ img {
     
     
 }
+header {
+    width: 100%;
+margin: 1%;
+    display: flex;
+    justify-content: space-around;
+}
